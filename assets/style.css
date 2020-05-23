@@ -46,14 +46,6 @@ main {
     position: relative;
    
 }
-.text-block {
-    position: absolute;
-    bottom: 20px;
-    background-color: #17A2B8;
-    color: white;
-    text-align: center;
-    width: 80%;
-}
 
 .container {
     position: relative;
