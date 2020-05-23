@@ -42,9 +42,13 @@ main {
     background-color: white;
 }
 
+h3 {
+    color: #17A2B8;
+    padding-bottom: 40px;
+}
+
 h4 {
     color: #17A2B8;
-   
 }
 
 .container {
